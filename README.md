@@ -115,7 +115,16 @@ Gemini AI is used to enhance ticket processing by:
   <img src="images/08.png" width="195" height="350" />
   </p>
   
-- SLA tracking view from Telegram.
+- Real-Time Data Sync.
+
+  <p align="center">
+  <img src="images/09.png" width="195" height="350" />
+     &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/10.png" width="195" height="350" />
+     &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/11.png" width="195" height="350" />
+  </p>
+  
 
 ## ⚠️ Challenges & Solutions
 
