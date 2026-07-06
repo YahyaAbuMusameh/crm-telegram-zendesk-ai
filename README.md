@@ -26,3 +26,22 @@ A FastAPI backend built in Python acts as the core integration layer between Tel
 
 To further enhance support operations, AI-powered analysis is integrated to automatically process ticket content, generate summaries, classify issue types, determine priority levels, and suggest professional response drafts.
 
+## Tech Stack
+
+**Backend**
+- Python
+- FastAPI
+
+**CRM Platform**
+- Zendesk API
+
+**Messaging**
+- Telegram Bot API
+
+**AI Integration**
+- Gemini AI
+
+**Tools**
+- Postman
+- Git & GitHub
+- JSON
