@@ -45,3 +45,64 @@ To further enhance support operations, AI-powered analysis is integrated to auto
 - Postman
 - Git & GitHub
 - JSON
+
+## Features
+
+- Manage Zendesk tickets directly from Telegram.
+- Assign and update tickets in real time.
+- View ticket details and SLA information.
+- Add internal notes and notify team members.
+- AI-powered ticket analysis (summary, classification, priority, response suggestion).
+- Real-time synchronization between Telegram and Zendesk.
+
+## API Flow
+
+1. User interacts with Telegram bot.
+2. Request is sent to FastAPI backend.
+3. Backend processes request and communicates with Zendesk API.
+4. AI processing is triggered if needed via Gemini AI.
+5. Response is returned to Telegram.
+6. Updates are synced back to Zendesk in real time.
+
+## AI Integration
+
+Gemini AI is used to enhance ticket processing by:
+
+- Summarizing ticket content.
+- Classifying issue types.
+- Determining priority levels.
+- Generating suggested responses for support agents.
+
+## How It Works
+
+1. User sends command via Telegram.
+2. FastAPI processes request.
+3. Zendesk API retrieves or updates ticket data.
+4. AI analyzes ticket content if required.
+5. Response is sent back to Telegram.
+6. Zendesk is updated in real time.
+
+## Screenshots
+
+- Telegram ticket management interface.
+- Zendesk real-time ticket updates.
+- AI-generated ticket analysis results.
+- Internal notes and notifications flow.
+- SLA tracking view from Telegram.
+
+## Challenges & Solutions
+
+- **Multi-action control:** Unified Telegram command system.
+- **AI unstructured data:** Structured prompts for consistent output.
+- **API reliability:** Testing and validation using Postman.
+
+## Impact
+
+This project improves CRM efficiency by reducing the need to switch between systems and enabling faster support operations through Telegram.
+
+It enhances decision-making using AI-generated insights and improves response consistency while maintaining full synchronization with Zendesk.
+
+## Future Improvements
+
+- Improve API response time and system efficiency.
+- Expand automation coverage for more Zendesk actions.
