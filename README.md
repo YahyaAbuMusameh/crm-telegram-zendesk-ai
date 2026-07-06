@@ -1,6 +1,6 @@
 <h1 align="center">Custom Telegram × Zendesk Integration</h1>
 
-## Overview
+## 📌 Overview
 
 This project is a CRM automation system that extends Zendesk functionality by integrating it with Telegram and AI-powered analysis.
 
@@ -8,7 +8,7 @@ It enables customer support operations to be managed directly from Telegram, inc
 
 The system also integrates AI capabilities to analyze ticket content, generate summaries, classify issues, and suggest responses to improve support efficiency and decision-making.
 
-## Problem Statement
+## 🚨 Problem Statement
 
 Modern customer support teams rely heavily on CRM platforms like Zendesk, which require agents to constantly switch between systems to manage tickets, update statuses, and communicate with teams.
 
@@ -16,7 +16,7 @@ This creates inefficiencies when agents are away from their desks or when quick 
 
 Additionally, support teams often lack real-time AI assistance for understanding ticket context, classifying issues, and generating quick response suggestions directly within their workflow.
 
-## Solution
+## 💡 Solution
 
 This project solves these challenges by building an external CRM layer that connects Telegram, Zendesk, and AI services into a unified workflow.
 
@@ -26,7 +26,7 @@ A FastAPI backend built in Python acts as the core integration layer between Tel
 
 To further enhance support operations, AI-powered analysis is integrated to automatically process ticket content, generate summaries, classify issue types, determine priority levels, and suggest professional response drafts.
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 **Backend**
 - Python
@@ -46,7 +46,7 @@ To further enhance support operations, AI-powered analysis is integrated to auto
 - Git & GitHub
 - JSON
 
-## Features
+## 🚀 Features
 
 - Manage Zendesk tickets directly from Telegram.
 - Assign and update tickets in real time.
@@ -55,7 +55,7 @@ To further enhance support operations, AI-powered analysis is integrated to auto
 - AI-powered ticket analysis (summary, classification, priority, response suggestion).
 - Real-time synchronization between Telegram and Zendesk.
 
-## API Flow
+## 🔄 API Flow
 
 1. User interacts with Telegram bot.
 2. Request is sent to FastAPI backend.
@@ -64,7 +64,7 @@ To further enhance support operations, AI-powered analysis is integrated to auto
 5. Response is returned to Telegram.
 6. Updates are synced back to Zendesk in real time.
 
-## AI Integration
+## 🧠 AI Integration
 
 Gemini AI is used to enhance ticket processing by:
 
@@ -73,7 +73,7 @@ Gemini AI is used to enhance ticket processing by:
 - Determining priority levels.
 - Generating suggested responses for support agents.
 
-## How It Works
+## 🧪 How It Works
 
 1. User sends command via Telegram.
 2. FastAPI processes request.
@@ -82,7 +82,7 @@ Gemini AI is used to enhance ticket processing by:
 5. Response is sent back to Telegram.
 6. Zendesk is updated in real time.
 
-## Screenshots
+## 📸 Screenshots
 
 - Telegram ticket management interface.
 - Zendesk real-time ticket updates.
@@ -90,19 +90,19 @@ Gemini AI is used to enhance ticket processing by:
 - Internal notes and notifications flow.
 - SLA tracking view from Telegram.
 
-## Challenges & Solutions
+## ⚠️ Challenges & Solutions
 
 - **Multi-action control:** Unified Telegram command system.
 - **AI unstructured data:** Structured prompts for consistent output.
 - **API reliability:** Testing and validation using Postman.
 
-## Impact
+## 📈 Impact
 
 This project improves CRM efficiency by reducing the need to switch between systems and enabling faster support operations through Telegram.
 
 It enhances decision-making using AI-generated insights and improves response consistency while maintaining full synchronization with Zendesk.
 
-## Future Improvements
+## 🔮 Future Improvements
 
 - Improve API response time and system efficiency.
 - Expand automation coverage for more Zendesk actions.
