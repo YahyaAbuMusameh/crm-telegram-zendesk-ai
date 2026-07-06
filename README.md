@@ -94,7 +94,6 @@ Gemini AI is used to enhance ticket processing by:
   <img src="images/02.png" width="195" height="350" />
   </p>
   
-- Zendesk real-time ticket updates.
 - AI-generated ticket analysis.
 
   <p align="center">
@@ -123,6 +122,16 @@ Gemini AI is used to enhance ticket processing by:
   <img src="images/10.png" width="195" height="350" />
      &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/11.png" width="195" height="350" />
+  </p>
+
+  - Zendesk real-time ticket updates.
+
+    <p align="center">
+  <img src="images/12.png"  height="350" />
+     &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/13.png"  height="350" />
+     &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/14.png"  height="350" />
   </p>
   
 
