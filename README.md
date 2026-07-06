@@ -128,10 +128,14 @@ Gemini AI is used to enhance ticket processing by:
 
   <p align="center">
   <img src="images/12.png" width="80%" height="350" />
-     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/13.png"  width="80%" height="350" />
-     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/14.png"  width="80%" height="350" />
+  </p>
+
+  <p align="center">
+   <img src="images/13.png" width="80%" height="350" />
+  </p>
+   
+  <p align="center">
+   <img src="images/14.png" width="80%" height="350" />
   </p>
   
 
