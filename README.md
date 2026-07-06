@@ -85,6 +85,7 @@ Gemini AI is used to enhance ticket processing by:
 ## 📸 Screenshots
 
 - Telegram ticket management interface.
+  <img src="images/01.png">
 - Zendesk real-time ticket updates.
 - AI-generated ticket analysis results.
 - Internal notes and notifications flow.
