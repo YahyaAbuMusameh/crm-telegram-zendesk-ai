@@ -1,4 +1,4 @@
-# CRM Project – Custom Telegram × Zendesk Integration
+<h1 align="center">CRM Project – Custom Telegram × Zendesk Integration</h1>
 
 ## Overview
 
