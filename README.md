@@ -118,7 +118,7 @@ Gemini AI is used to enhance ticket processing by:
 - Real-Time Data Sync.
 
   <p align="center">
-  <img src="images/09.png" width="195" height="350" />
+  <img src="images/9.png" width="195" height="350" />
      &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/10.png" width="195" height="350" />
      &nbsp;&nbsp;&nbsp;&nbsp;
